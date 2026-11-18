@@ -1,0 +1,1862 @@
+[
+  {
+    "filename": "and_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_AND_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "andup00ag.bil": 57600,
+      "andup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "arm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ARM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "armup00ag.bil": 921600,
+      "armup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "afg_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_AFG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "afgup00ag.bil": 10137600,
+      "afgup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "abw_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ABW_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "abwup00ag.bil": 115200,
+      "abwup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "blz_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BLZ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "blzup00ag.bil": 691200,
+      "blzup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "fro_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_FRO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "froup00ag.bil": 230400,
+      "froup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "arg_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ARG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "argup00ag.bil": 44352000,
+      "argup00ag.hdr": 333
+    }
+  },
+  {
+    "filename": "che_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CHE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cheup00ag.bil": 1036800,
+      "cheup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "caf_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CAF_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cafup00ag.bil": 10137600,
+      "cafup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "col_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_COL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "colup00ag.bil": 17510400,
+      "colup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "civ_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CIV_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "civup00ag.bil": 3225600,
+      "civup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "aus_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_AUS_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ausup00ag.bil": 132710400,
+      "ausup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "bhs_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BHS_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bhsup00ag.bil": 3686400,
+      "bhsup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "ecu_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ECU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ecuup00ag.bil": 8755200,
+      "ecuup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "cyp_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CYP_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cypup00ag.bil": 345600,
+      "cypup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "gib_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GIB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gibup00ag.bil": 57600,
+      "gibup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "cri_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CRI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "criup00ag.bil": 1440000,
+      "criup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "cze_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CZE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "czeup00ag.bil": 2073600,
+      "czeup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "bmu_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BMU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bmuup00ag.bil": 57600,
+      "bmuup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "bgr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BGR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bgrup00ag.bil": 1612800,
+      "bgrup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "cog_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_COG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cogup00ag.bil": 5702400,
+      "cogup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "brn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BRN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "brnup00ag.bil": 345600,
+      "brnup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "dnk_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_DNK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "dnkup00ag.bil": 2073600,
+      "dnkup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "btn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BTN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "btnup00ag.bil": 864000,
+      "btnup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "bra_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BRA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "braup00ag.bil": 110995200,
+      "braup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "com_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_COM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "comup00ag.bil": 230400,
+      "comup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "blr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BLR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "blrup00ag.bil": 4147200,
+      "blrup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "brb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BRB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "brbup00ag.bil": 57600,
+      "brbup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "chn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CHN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "chnup00ag.bil": 130636800,
+      "chnup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "can_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CAN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "canup00ag.bil": 222912000,
+      "canup00ag.hdr": 333
+    }
+  },
+  {
+    "filename": "flk_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_FLK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "flkup00ag.bil": 864000,
+      "flkup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "bfa_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BFA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bfaup00ag.bil": 3628800,
+      "bfaup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "bel_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BEL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "belup00ag.bil": 864000,
+      "belup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "bgd_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BGD_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bgdup00ag.bil": 2419200,
+      "bgdup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "dom_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_DOM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "domup00ag.bil": 1152000,
+      "domup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "bdi_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BDI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bdiup00ag.bil": 518400,
+      "bdiup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "fra_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_FRA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "fraup00ag.bil": 11750400,
+      "fraup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "bwa_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BWA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bwaup00ag.bil": 6969600,
+      "bwaup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "atg_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ATG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "atgup00ag.bil": 115200,
+      "atgup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "ben_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BEN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "benup00ag.bil": 2304000,
+      "benup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "ago_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_AGO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "agoup00ag.bil": 12902400,
+      "agoup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "cpv_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CPV_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cpvup00ag.bil": 921600,
+      "cpvup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "aze_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_AZE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "azeup00ag.bil": 2016000,
+      "azeup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "dma_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_DMA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "dmaup00ag.bil": 57600,
+      "dmaup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "cub_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CUB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cubup00ag.bil": 3744000,
+      "cubup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "deu_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_DEU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "deuup00ag.bil": 6336000,
+      "deuup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "ant_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ANT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "antup00ag.bil": 3686400,
+      "antup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "bhr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BHR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bhrup00ag.bil": 115200,
+      "bhrup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "gab_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GAB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gabup00ag.bil": 3225600,
+      "gabup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "gbr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GBR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gbrup00ag.bil": 9734400,
+      "gbrup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "egy_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_EGY_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "egyup00ag.bil": 8985600,
+      "egyup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "bih_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BIH_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bihup00ag.bil": 1152000,
+      "bihup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "cod_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_COD_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "codup00ag.bil": 24192000,
+      "codup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "esp_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ESP_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "espup00ag.bil": 24883200,
+      "espup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "cym_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CYM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cymup00ag.bil": 172800,
+      "cymup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "bol_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_BOL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "bolup00ag.bil": 11232000,
+      "bolup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "eri_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ERI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "eriup00ag.bil": 3225600,
+      "eriup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "cok_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_COK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cokup00ag.bil": 8870400,
+      "cokup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "gin_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GIN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ginup00ag.bil": 3628800,
+      "ginup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "ggy_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GGY_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ggyup00ag.bil": 57600,
+      "ggyup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "chl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CHL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "chlup00ag.bil": 25344000,
+      "chlup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "eth_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ETH_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ethup00ag.bil": 12729600,
+      "ethup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "fin_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_FIN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "finup00ag.bil": 9676800,
+      "finup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "gha_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GHA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ghaup00ag.bil": 2764800,
+      "ghaup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "asm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ASM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "asmup00ag.bil": 1440000,
+      "asmup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "aia_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_AIA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "aiaup00ag.bil": 115200,
+      "aiaup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "geo_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GEO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "geoup00ag.bil": 2073600,
+      "geoup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "aut_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_AUT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "autup00ag.bil": 2073600,
+      "autup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "alb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ALB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "albup00ag.bil": 691200,
+      "albup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "dza_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_DZA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "dzaup00ag.bil": 26496000,
+      "dzaup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "est_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_EST_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "estup00ag.bil": 1382400,
+      "estup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "fsm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_FSM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "fsmup00ag.bil": 9331200,
+      "fsmup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "fji_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_FJI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "fjiup00ag.bil": 208512000,
+      "fjiup00ag.hdr": 336
+    }
+  },
+  {
+    "filename": "cmr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_CMR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "cmrup00ag.bil": 6739200,
+      "cmrup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "dji_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_DJI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "djiup00ag.bil": 518400,
+      "djiup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "are_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ARE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "areup00ag.bil": 2016000,
+      "areup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "mar_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MAR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "marup00ag.bil": 17625600,
+      "marup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "mmr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MMR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mmrup00ag.bil": 12672000,
+      "mmrup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "mco_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MCO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mcoup00ag.bil": 57600,
+      "mcoup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "mus_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MUS_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "musup00ag.bil": 921600,
+      "musup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "kwt_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KWT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "kwtup00ag.bil": 518400,
+      "kwtup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "lbn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LBN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lbnup00ag.bil": 345600,
+      "lbnup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "mda_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MDA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mdaup00ag.bil": 1152000,
+      "mdaup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "gum_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GUM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gumup00ag.bil": 57600,
+      "gumup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "mkd_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MKD_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mkdup00ag.bil": 691200,
+      "mkdup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "msr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MSR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "msrup00ag.bil": 57600,
+      "msrup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "myt_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MYT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mytup00ag.bil": 115200,
+      "mytup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "kna_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KNA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "knaup00ag.bil": 57600,
+      "knaup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "nfk_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NFK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nfkup00ag.bil": 115200,
+      "nfkup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "hrv_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_HRV_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "hrvup00ag.bil": 2016000,
+      "hrvup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "nic_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NIC_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nicup00ag.bil": 2073600,
+      "nicup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "isl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ISL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "islup00ag.bil": 2764800,
+      "islup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "mac_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MAC_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "macup00ag.bil": 57600,
+      "macup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "moz_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MOZ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mozup00ag.bil": 13478400,
+      "mozup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "mdv_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MDV_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mdvup00ag.bil": 1152000,
+      "mdvup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "hnd_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_HND_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "hndup00ag.bil": 2304000,
+      "hndup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "irl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_IRL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "irlup00ag.bil": 1728000,
+      "irlup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "nor_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NOR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "norup00ag.bil": 24192000,
+      "norup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "idn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_IDN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "idnup00ag.bil": 52531200,
+      "idnup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "isr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ISR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "isrup00ag.bil": 864000,
+      "isrup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "kor_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KOR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "korup00ag.bil": 3225600,
+      "korup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "hkg_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_HKG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "hkgup00ag.bil": 115200,
+      "hkgup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "nga_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NGA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ngaup00ag.bil": 9676800,
+      "ngaup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "mnp_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MNP_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mnpup00ag.bil": 1382400,
+      "mnpup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "imn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_IMN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "imnup00ag.bil": 57600,
+      "imnup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "lka_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LKA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lkaup00ag.bil": 1036800,
+      "lkaup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "gnq_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GNQ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gnqup00ag.bil": 2822400,
+      "gnqup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "lso_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LSO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lsoup00ag.bil": 691200,
+      "lsoup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "mrt_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MRT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mrtup00ag.bil": 11289600,
+      "mrtup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "mli_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MLI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mliup00ag.bil": 17625600,
+      "mliup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "gnb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GNB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gnbup00ag.bil": 691200,
+      "gnbup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "jpn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_JPN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "jpnup00ag.bil": 34444800,
+      "jpnup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "jam_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_JAM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "jamup00ag.bil": 345600,
+      "jamup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "mhl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MHL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mhlup00ag.bil": 8236800,
+      "mhlup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "irn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_IRN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "irnup00ag.bil": 20563200,
+      "irnup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "jor_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_JOR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "jorup00ag.bil": 2073600,
+      "jorup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "gtm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GTM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gtmup00ag.bil": 1728000,
+      "gtmup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "mys_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MYS_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mysup00ag.bil": 9676800,
+      "mysup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "niu_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NIU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "niuup00ag.bil": 115200,
+      "niuup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "kaz_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KAZ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "kazup00ag.bil": 38707200,
+      "kazup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "mdg_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MDG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mdgup00ag.bil": 7776000,
+      "mdgup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "jey_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_JEY_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "jeyup00ag.bil": 57600,
+      "jeyup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "mex_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MEX_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mexup00ag.bil": 36864000,
+      "mexup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "mng_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MNG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mngup00ag.bil": 23500800,
+      "mngup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "grl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GRL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "grlup00ag.bil": 92160000,
+      "grlup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "nam_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NAM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "namup00ag.bil": 12096000,
+      "namup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "gmb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GMB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gmbup00ag.bil": 230400,
+      "gmbup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "mwi_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MWI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mwiup00ag.bil": 2880000,
+      "mwiup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "lux_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LUX_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "luxup00ag.bil": 230400,
+      "luxup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "ltu_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LTU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ltuup00ag.bil": 1843200,
+      "ltuup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "khm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KHM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "khmup00ag.bil": 2073600,
+      "khmup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "ncl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NCL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nclup00ag.bil": 1382400,
+      "nclup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "ita_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ITA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "itaup00ag.bil": 9734400,
+      "itaup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "glp_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GLP_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "glpup00ag.bil": 921600,
+      "glpup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "mtq_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MTQ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mtqup00ag.bil": 115200,
+      "mtqup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "hun_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_HUN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "hunup00ag.bil": 2073600,
+      "hunup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "ner_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NER_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nerup00ag.bil": 14515200,
+      "nerup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "nld_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NLD_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nldup00ag.bil": 1152000,
+      "nldup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "grd_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GRD_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "grdup00ag.bil": 115200,
+      "grdup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "ind_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_IND_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "indup00ag.bil": 57139200,
+      "indup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "lao_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LAO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "laoup00ag.bil": 5760000,
+      "laoup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "lva_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LVA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lvaup00ag.bil": 2073600,
+      "lvaup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "guf_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GUF_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "gufup00ag.bil": 1152000,
+      "gufup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "guy_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GUY_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "guyup00ag.bil": 3110400,
+      "guyup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "grc_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_GRC_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "grcup00ag.bil": 6739200,
+      "grcup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "lie_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LIE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lieup00ag.bil": 57600,
+      "lieup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "lby_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LBY_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lbyup00ag.bil": 15552000,
+      "lbyup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "mlt_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_MLT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "mltup00ag.bil": 115200,
+      "mltup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "lbr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LBR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lbrup00ag.bil": 1440000,
+      "lbrup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "ken_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KEN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "kenup00ag.bil": 6912000,
+      "kenup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "kir_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KIR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "kirup00ag.bil": 408960000,
+      "kirup00ag.hdr": 335
+    }
+  },
+  {
+    "filename": "hti_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_HTI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "htiup00ag.bil": 921600,
+      "htiup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "lca_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_LCA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "lcaup00ag.bil": 230400,
+      "lcaup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "irq_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_IRQ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "irqup00ag.bil": 6912000,
+      "irqup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "kgz_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_KGZ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "kgzup00ag.bil": 4492800,
+      "kgzup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "pyf_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PYF_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "pyfup00ag.bil": 26611200,
+      "pyfup00ag.hdr": 333
+    }
+  },
+  {
+    "filename": "pcn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PCN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "pcnup00ag.bil": 1382400,
+      "pcnup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "uzb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_UZB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "uzbup00ag.bil": 10944000,
+      "uzbup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "vut_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_VUT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "vutup00ag.bil": 2592000,
+      "vutup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "vir_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_VIR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "virup00ag.bil": 230400,
+      "virup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "rwa_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_RWA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "rwaup00ag.bil": 518400,
+      "rwaup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "png_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PNG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "pngup00ag.bil": 14976000,
+      "pngup00ag.hdr": 333
+    }
+  },
+  {
+    "filename": "rou_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ROU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "rouup00ag.bil": 4147200,
+      "rouup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "stp_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_STP_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "stpup00ag.bil": 345600,
+      "stpup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "wlf_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_WLF_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "wlfup00ag.bil": 345600,
+      "wlfup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "prt_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PRT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "prtup00ag.bil": 16473600,
+      "prtup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "omn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_OMN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "omnup00ag.bil": 6336000,
+      "omnup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "sen_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SEN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "senup00ag.bil": 2016000,
+      "senup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "syc_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SYC_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "sycup00ag.bil": 57600,
+      "sycup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "rus_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_RUS_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "rusup00ag.bil": 425088000,
+      "rusup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "tca_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TCA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tcaup00ag.bil": 230400,
+      "tcaup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "sdn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SDN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "sdnup00ag.bil": 22809600,
+      "sdnup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "pol_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_POL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "polup00ag.bil": 5529600,
+      "polup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "vgb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_VGB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "vgbup00ag.bil": 57600,
+      "vgbup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "svk_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SVK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "svkup00ag.bil": 1209600,
+      "svkup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "sgp_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SGP_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "sgpup00ag.bil": 115200,
+      "sgpup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "npl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NPL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nplup00ag.bil": 2880000,
+      "nplup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "tkm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TKM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tkmup00ag.bil": 9216000,
+      "tkmup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "spm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SPM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "spmup00ag.bil": 115200,
+      "spmup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "pry_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PRY_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "pryup00ag.bil": 6969600,
+      "pryup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "tkl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TKL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tklup00ag.bil": 230400,
+      "tklup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "usa_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_USA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "akup00ag.bil": 61689600,
+      "akup00ag.hdr": 332,
+      "hiup00ag.bil": 15840000,
+      "hiup00ag.hdr": 332,
+      "usaup00ag.bil": 88358400,
+      "usaup00ag.hdr": 332
+    }
+  },
+  {
+    "filename": "pak_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PAK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "pakup00ag.bil": 13824000,
+      "pakup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "uga_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_UGA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ugaup00ag.bil": 2822400,
+      "ugaup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "plw_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PLW_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "plwup00ag.bil": 2016000,
+      "plwup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "tza_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TZA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tzaup00ag.bil": 9734400,
+      "tzaup00ag.hdr": 333
+    }
+  },
+  {
+    "filename": "swz_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SWZ_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "swzup00ag.bil": 518400,
+      "swzup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "ven_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_VEN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "venup00ag.bil": 11232000,
+      "venup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "smr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SMR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "smrup00ag.bil": 57600,
+      "smrup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "wsm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_WSM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "wsmup00ag.bil": 230400,
+      "wsmup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "slb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SLB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "slbup00ag.bil": 6912000,
+      "slbup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "slv_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SLV_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "slvup00ag.bil": 460800,
+      "slvup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "swe_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SWE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "sweup00ag.bil": 13824000,
+      "sweup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "syr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SYR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "syrup00ag.bil": 2764800,
+      "syrup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "vnm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_VNM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "vnmup00ag.bil": 9331200,
+      "vnmup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "tgo_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TGO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tgoup00ag.bil": 1209600,
+      "tgoup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "ury_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_URY_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "uryup00ag.bil": 2822400,
+      "uryup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "vat_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_VAT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "vatup00ag.bil": 57600,
+      "vatup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "sur_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SUR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "surup00ag.bil": 2073600,
+      "surup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "ukr_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_UKR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ukrup00ag.bil": 11520000,
+      "ukrup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "tun_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TUN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tunup00ag.bil": 2592000,
+      "tunup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "zmb_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ZMB_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "zmbup00ag.bil": 9676800,
+      "zmbup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "zwe_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ZWE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "zweup00ag.bil": 4608000,
+      "zweup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "tha_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_THA_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "thaup00ag.bil": 10137600,
+      "thaup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "ton_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TON_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tonup00ag.bil": 1843200,
+      "tonup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "tjk_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TJK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tjkup00ag.bil": 3456000,
+      "tjkup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "phl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PHL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "phlup00ag.bil": 13132800,
+      "phlup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "yem_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_YEM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "yemup00ag.bil": 7257600,
+      "yemup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "prk_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PRK_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "prkup00ag.bil": 3225600,
+      "prkup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "tcd_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TCD_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tcdup00ag.bil": 14227200,
+      "tcdup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "nru_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NRU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nruup00ag.bil": 57600,
+      "nruup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "reu_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_REU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "reuup00ag.bil": 115200,
+      "reuup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "qat_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_QAT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "qatup00ag.bil": 518400,
+      "qatup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "tur_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TUR_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "turup00ag.bil": 9676800,
+      "turup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "tls_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TLS_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tlsup00ag.bil": 576000,
+      "tlsup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "tto_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TTO_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "ttoup00ag.bil": 345600,
+      "ttoup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "per_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PER_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "perup00ag.bil": 16128000,
+      "perup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "twn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TWN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "twnup00ag.bil": 1152000,
+      "twnup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "sjm_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SJM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "sjmup00ag.bil": 9676800,
+      "sjmup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "tuv_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_TUV_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "tuvup00ag.bil": 2419200,
+      "tuvup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "nzl_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_NZL_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "nzlup00ag.bil": 11980800,
+      "nzlup00ag.hdr": 330
+    }
+  },
+  {
+    "filename": "svn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SVN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "svnup00ag.bil": 460800,
+      "svnup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "scg_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SCG_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "scgup00ag.bil": 2073600,
+      "scgup00ag.hdr": 327
+    }
+  },
+  {
+    "filename": "pan_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PAN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "panup00ag.bil": 1382400,
+      "panup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "vct_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_VCT_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "vctup00ag.bil": 115200,
+      "vctup00ag.hdr": 326
+    }
+  },
+  {
+    "filename": "shn_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SHN_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "shnup00ag.bil": 17856000,
+      "shnup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "som_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SOM_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "somup00ag.bil": 11059200,
+      "somup00ag.hdr": 329
+    }
+  },
+  {
+    "filename": "sle_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SLE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "sleup00ag.bil": 1152000,
+      "sleup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "pri_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PRI_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "priup00ag.bil": 460800,
+      "priup00ag.hdr": 328
+    }
+  },
+  {
+    "filename": "pse_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_PSE_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "pseup00ag.bil": 230400,
+      "pseup00ag.hdr": 325
+    }
+  },
+  {
+    "filename": "sau_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_SAU_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "sauup00ag.bil": 23846400,
+      "sauup00ag.hdr": 331
+    }
+  },
+  {
+    "filename": "zaf_grumpv1_pcount_00_bil_30.zip",
+    "url": "https://data.earthdata.nasa.gov/nasa-earth/human-dimensions/sedac-root/gpw/app/download.jsp_file_grumpv1_level_country_level-scope_country_code_ZAF_data_pcount_type_bil_resolut_30_year_00",
+    "files": {
+      "zafup00ag.bil": 15552000,
+      "zafup00ag.hdr": 330
+    }
+  }
+]

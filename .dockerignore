@@ -1,0 +1,17 @@
+.git
+.env
+.env.*
+.venv
+venv
+data
+mu_calculator/data
+gas
+**/__pycache__
+*.bil
+*.hdr
+*.zip
+*.npy
+site
+docs
+tests
+density-l*

@@ -1,0 +1,24 @@
+MU Calculator
+Copyright 2026 investigatexm
+
+The S2 covering implementation is adapted from the 2011 Google
+s2-geometry-library-java S2RegionCoverer algorithm.
+Copyright 2005 Google Inc. All Rights Reserved.
+Licensed under the Apache License, Version 2.0.
+https://github.com/google/s2-geometry-library-java
+
+Modifications: Python implementation using s2geometry primitives, fixed historical
+covering settings and Java priority queue tie ordering. The region covering and
+cell-union normalization are in mu_calculator/covering.py; the S2 cell-centre
+computation in mu_calculator/geometry.py follows the S2 projection definitions.
+
+Animation orientation maps:
+site/maps/a1.json, a2.json and a3.json contain selected, simplified data
+© OpenStreetMap contributors, available under the Open Database License 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+These derivative databases are distributed under ODbL 1.0, separately from
+the Apache-licensed code. Source and extraction details: site/maps/README.md.
+
+site/maps/a4.json and a5.json contain Natural Earth 1:10m data (public domain).
+https://www.naturalearthdata.com/about/terms-of-use/

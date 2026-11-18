@@ -1,0 +1,23 @@
+FROM python:3.12-slim
+
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    GRUMP_DATA=/data/grump \
+    MU_FAST_STARTUP=1 \
+    MU_TABLE_MAX_LEVEL=8 \
+    PORT=8080
+
+RUN apt-get update && apt-get install -y --no-install-recommends libstdc++6 && rm -rf /var/lib/apt/lists/*
+RUN useradd --uid 10001 --create-home mu && mkdir -p /data/grump && chown mu:mu /data/grump
+
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY mu_calculator ./mu_calculator
+COPY deploy/cloudrun/entrypoint.py ./entrypoint.py
+
+USER mu
+EXPOSE 8080
+
+ENTRYPOINT ["python", "/app/entrypoint.py"]
+
